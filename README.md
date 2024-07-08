@@ -1,4 +1,4 @@
-# Hearh-Disease-Failure-classification
+# Heart-Disease-Failure-classification
 This classifier was trained on the "Heart disease failure clinical records" dataset of Kaggle with the following models:
 * LDA (Linear Discriminant Analysis)
 * KNN (K-Nearest Neighbors)
